@@ -1,0 +1,424 @@
+body {
+  background: #e8e8e8;
+  color: #222222;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  margin: 0;
+}
+
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #f09228;
+}
+
+p,
+li {
+  color: #444444;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3 {
+  color: #111111;
+  margin: 0;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 400;
+  text-align: left;
+  margin: 14px 0;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.page {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 0 40px;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 8px;
+}
+
+.intro-copy {
+  width: 60%;
+  padding: 2.5%;
+}
+
+.intro-copy p {
+  margin: 0 0 12px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.tagline {
+  font-size: 16px;
+  font-weight: 700;
+  color: #2b2b2b;
+}
+
+.interest-title {
+  margin-bottom: 6px;
+}
+
+.interest-list {
+  margin: 0 0 14px 16px;
+  padding-left: 18px;
+}
+
+.interest-list li {
+  margin-bottom: 2px;
+}
+
+.links {
+  text-align: left;
+  margin-top: 12px;
+}
+
+.links span {
+  color: #777777;
+  margin: 0 6px;
+}
+
+.intro-photo {
+  width: 40%;
+  max-width: 40%;
+  padding: 2.5%;
+}
+
+.intro-photo img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 0;
+  display: block;
+}
+
+.section {
+  margin-top: 26px;
+}
+
+.section-header {
+  padding: 2.5% 2.5% 0;
+  margin-bottom: 0;
+}
+
+.section-header p {
+  margin: 6px 0 0;
+}
+
+.entry-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+  padding: 0;
+}
+
+.entry-media {
+  width: 25%;
+  min-width: 120px;
+  padding: 2.5%;
+  vertical-align: middle;
+}
+
+.entry-badge {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  max-width: 160px;
+  border-radius: 0;
+  background: linear-gradient(135deg, #eff5fb 0%, #d9e8f7 100%);
+  border: 1px solid #d5e1ed;
+  color: #2a5d8f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
+.entry-logo {
+  width: 100%;
+  object-fit: contain;
+  display: block;
+  border: 0;
+  background: transparent;
+  box-sizing: border-box;
+}
+
+.entry-logo-square {
+  max-width: 160px;
+  aspect-ratio: 1 / 1;
+  padding: 14px;
+}
+
+.entry-logo-nyu {
+  max-width: 152px;
+  height: 188px;
+  padding: 8px 10px;
+}
+
+.entry-logo-university {
+  max-width: 176px;
+  height: 64px;
+  padding: 0;
+}
+
+.entry-logo-wide {
+  max-width: 180px;
+  height: 126px;
+  padding: 10px 14px;
+}
+
+.entry-thumb {
+  width: 100%;
+  max-width: 132px;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+.entry-thumb-logo {
+  max-width: 116px;
+  filter: grayscale(0.08);
+}
+
+.entry-thumb-project {
+  max-width: 160px;
+  height: 102px;
+  object-fit: cover;
+  object-position: center top;
+  border: 1px solid #c9d6e4;
+  background: #ffffff;
+  border-color: #c9d6e4;
+  box-shadow: 0 3px 10px rgba(17, 17, 17, 0.08);
+}
+
+.entry-thumb-project-logo {
+  object-fit: contain;
+  object-position: center;
+  background: #ffffff;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.entry-body {
+  width: 75%;
+  padding: 2.5%;
+}
+
+.entry-meta {
+  color: #666666;
+  font-style: italic;
+  margin: 2px 0 4px;
+}
+
+.entry-links {
+  margin: 0 0 8px;
+}
+
+.entry-body p:last-child {
+  margin-bottom: 0;
+}
+
+.project-visuals {
+  margin-top: 8px;
+  color: #3d3d3d;
+}
+
+.entry-body p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.small-section p {
+  margin: 0 2.5% 12px;
+  text-align: left;
+}
+
+.education-list {
+  padding: 0 2.5%;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.edu-item {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 0;
+}
+
+.edu-item p {
+  margin: 0;
+}
+
+.edu-logo-slot {
+  width: 96px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.skills-line {
+  margin-top: 6px;
+  line-height: 1.5;
+}
+
+.edu-logo {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border: 0;
+  background: transparent;
+  box-sizing: border-box;
+  display: block;
+}
+
+.edu-logo-nyu {
+  width: 88px;
+  max-height: 30px;
+}
+
+.edu-logo-srm {
+  width: 88px;
+  max-height: 30px;
+}
+
+.entry-points {
+  margin: 8px 0 0;
+  padding-left: 20px;
+}
+
+.entry-points li {
+  margin-bottom: 6px;
+}
+
+@media (max-width: 700px) {
+  .page {
+    padding: 0 0 32px;
+  }
+
+  .intro {
+    flex-direction: column-reverse;
+    align-items: stretch;
+    gap: 0;
+  }
+
+  .intro-copy {
+    width: 100%;
+  }
+
+  .intro-photo {
+    width: 100%;
+    max-width: 100%;
+    padding: 2.5%;
+  }
+
+  .entry {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .entry-media {
+    width: 100%;
+    min-width: 0;
+    padding-bottom: 0;
+  }
+
+  .entry-badge {
+    width: 120px;
+    height: 120px;
+    font-size: 24px;
+  }
+
+  .entry-thumb {
+    max-width: 120px;
+  }
+
+  .entry-thumb-logo {
+    max-width: 98px;
+  }
+
+  .entry-logo {
+    margin: 0 auto;
+  }
+
+  .entry-logo-square {
+    max-width: 120px;
+  }
+
+  .entry-logo-nyu {
+    max-width: 128px;
+    height: 160px;
+  }
+
+  .entry-logo-university {
+    max-width: 156px;
+    height: 56px;
+  }
+
+  .entry-logo-wide {
+    max-width: 156px;
+    height: 102px;
+  }
+
+  .entry-thumb-project {
+    max-width: 160px;
+    height: 96px;
+  }
+
+  .entry-body {
+    width: 100%;
+  }
+
+  .links {
+    text-align: left;
+  }
+
+  .edu-item {
+    grid-template-columns: 86px 1fr;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .edu-logo-slot {
+    width: 86px;
+    height: 30px;
+  }
+}

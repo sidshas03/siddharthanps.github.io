@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">Switch MAC duplication thumbnail</title>
+  <desc id="desc">Illustration of two switches with duplicate MAC addresses and a reload fix.</desc>
+  <rect width="320" height="220" fill="#f8fbf7"/>
+  <rect x="16" y="16" width="288" height="188" rx="14" fill="#ebf5ea" stroke="#bfd8ba"/>
+  <text x="26" y="42" fill="#2c6b3f" font-family="Arial, sans-serif" font-size="22" font-weight="700">#3 Switch MAC</text>
+  <rect x="42" y="82" width="88" height="58" rx="8" fill="#ffffff" stroke="#7bb18a"/>
+  <rect x="190" y="82" width="88" height="58" rx="8" fill="#ffffff" stroke="#7bb18a"/>
+  <g fill="#2c6b3f">
+    <rect x="56" y="98" width="12" height="8"/><rect x="74" y="98" width="12" height="8"/><rect x="92" y="98" width="12" height="8"/><rect x="110" y="98" width="12" height="8"/>
+    <rect x="204" y="98" width="12" height="8"/><rect x="222" y="98" width="12" height="8"/><rect x="240" y="98" width="12" height="8"/><rect x="258" y="98" width="12" height="8"/>
+  </g>
+  <text x="52" y="162" fill="#4a4a4a" font-family="Arial, sans-serif" font-size="14">same base MAC</text>
+  <path d="M134 110 h38" fill="none" stroke="#d14b4b" stroke-width="4"/>
+  <text x="142" y="100" fill="#d14b4b" font-family="Arial, sans-serif" font-size="18" font-weight="700">=</text>
+  <path d="M160 182 a28 28 0 1 0 0.1 0" fill="none" stroke="#2c6b3f" stroke-width="5"/>
+  <polygon points="166,151 184,155 171,168" fill="#2c6b3f"/>
+</svg>

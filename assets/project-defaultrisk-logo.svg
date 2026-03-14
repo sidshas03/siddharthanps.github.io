@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">DefaultRisk project logo</title>
+  <desc id="desc">A cloud with a warning cutout inside a shield.</desc>
+  <path d="M160 24L246 62v58c0 57-34 93-86 110-52-17-86-53-86-110V62z" fill="#1f5a9e"/>
+  <path d="M117 166c-18 0-33-14-33-32 0-13 8-25 20-30a44 44 0 0 1 45-40c16 0 30 8 38 22a37 37 0 0 1 13-2c20 0 36 16 36 36 0 2 0 5-1 7 10 5 16 15 16 27 0 18-15 32-33 32z" fill="#ffffff"/>
+  <path d="M160 104l-12 32h24z" fill="#1f5a9e"/>
+  <circle cx="160" cy="146" r="4.4" fill="#1f5a9e"/>
+</svg>

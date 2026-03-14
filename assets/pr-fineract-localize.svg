@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">Fineract localization thumbnail</title>
+  <desc id="desc">Form and language symbols representing a Fineract validation localization pull request.</desc>
+  <rect width="320" height="220" fill="#fffaf7"/>
+  <rect x="16" y="16" width="288" height="188" rx="14" fill="#fdf0e7" stroke="#edd1be"/>
+  <text x="26" y="42" fill="#99512f" font-family="Arial, sans-serif" font-size="22" font-weight="700">Fineract PR</text>
+  <rect x="48" y="74" width="116" height="98" rx="10" fill="#ffffff" stroke="#d7b49c"/>
+  <rect x="64" y="92" width="82" height="10" rx="5" fill="#e6c1aa"/>
+  <rect x="64" y="114" width="70" height="10" rx="5" fill="#e6c1aa"/>
+  <rect x="64" y="136" width="54" height="10" rx="5" fill="#e6c1aa"/>
+  <circle cx="232" cy="112" r="42" fill="#b16a44"/>
+  <text x="218" y="119" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="700">A</text>
+  <text x="246" y="119" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">t</text>
+  <text x="74" y="190" fill="#4a4a4a" font-family="Arial, sans-serif" font-size="16">localize validation messaging</text>
+</svg>

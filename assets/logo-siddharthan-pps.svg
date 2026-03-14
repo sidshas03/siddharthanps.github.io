@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">Siddharthan P S logo</title>
+  <desc id="desc">Dark horizontal logo with a circular mark and the text Siddharthan P S.</desc>
+
+  <rect x="0" y="0" width="520" height="120" rx="14" fill="#0b0b0b"/>
+
+  <g transform="translate(46,60)">
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#f4f4f4" stroke-width="3"/>
+    <path
+      d="M -11 -8 C -2 -15, 12 -11, 14 0 C 15 9, 9 16, 0 18"
+      fill="none"
+      stroke="#f4f4f4"
+      stroke-width="3"
+      stroke-linecap="round"
+    />
+    <path d="M 8 2 L 16 2 L 14 -6 Z" fill="#f4f4f4"/>
+    <circle cx="-9" cy="-9" r="2.4" fill="#f4f4f4"/>
+  </g>
+
+  <text
+    x="90"
+    y="72"
+    fill="#f4f4f4"
+    font-family="Avenir Next, Segoe UI, Arial, sans-serif"
+    font-size="42"
+    font-weight="600"
+    letter-spacing="0.2"
+  >
+    Siddharthan P S
+  </text>
+</svg>

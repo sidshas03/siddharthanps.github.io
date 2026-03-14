@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">Airflow assets thumbnail</title>
+  <desc id="desc">Nodes and a tool icon representing an Airflow assets event fix.</desc>
+  <rect width="320" height="220" fill="#f8fbff"/>
+  <rect x="16" y="16" width="288" height="188" rx="14" fill="#edf5ff" stroke="#c1d7ee"/>
+  <text x="26" y="42" fill="#1b4f80" font-family="Arial, sans-serif" font-size="22" font-weight="700">Assets Event</text>
+  <circle cx="88" cy="116" r="18" fill="#4f89c6"/>
+  <circle cx="160" cy="82" r="18" fill="#4f89c6"/>
+  <circle cx="232" cy="116" r="18" fill="#4f89c6"/>
+  <path d="M102 108 L146 90" stroke="#4f89c6" stroke-width="5"/>
+  <path d="M174 90 L218 108" stroke="#4f89c6" stroke-width="5"/>
+  <path d="M160 138 l24 18" stroke="#f28c28" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="150" cy="131" r="15" fill="none" stroke="#f28c28" stroke-width="6"/>
+  <text x="74" y="188" fill="#4a4a4a" font-family="Arial, sans-serif" font-size="16">initialize extra payload correctly</text>
+</svg>
