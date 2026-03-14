@@ -3,7 +3,7 @@
 Backend and Cloud Engineer focused on reliable data systems  
 Brooklyn, NY | Master's in Computer Engineering, New York University
 
-[LinkedIn](https://www.linkedin.com/in/ssiddharthan/) | [Portfolio](https://siddharthanps.info/) | [Email](mailto:sp8004@nyu.edu) | [Kaggle](https://www.kaggle.com/pssiddharthan) | [Cisco Community](https://community.cisco.com/t5/user/viewprofilepage/user-id/1473066)
+[LinkedIn](https://www.linkedin.com/in/ssiddharthan/) | [Portfolio](https://sidshas03.github.io/siddharthanps.github.io/) | [Email](mailto:sp8004@nyu.edu) | [Kaggle](https://www.kaggle.com/pssiddharthan) | [Cisco Community](https://community.cisco.com/t5/user/viewprofilepage/user-id/1473066)
 
 I build systems that reduce manual work, improve data quality, and make operations easier to scale.
 
